@@ -1824,7 +1824,7 @@ header .mega .image .four {
     display: block;
     width: fit-content;
     border: 3px solid blueviolet;
-    color: rgb(214, 214, 214);
+    color: blueviolet;
     text-decoration: none;
     margin: 30px auto 40px;
     font-size: 20px;
@@ -1835,6 +1835,7 @@ header .mega .image .four {
 }
 .pricing .container a:hover {
     background-color: blueviolet;
+    color: rgb(214, 214, 214);
 }
  /*End Pricing*/
 /* Start Stats */
