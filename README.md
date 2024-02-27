@@ -1,3 +1,3 @@
 # Angled
  
-https://kungfukelo.github.io/Angled/
+https://MohamedAlkayal.github.io/Angled/
